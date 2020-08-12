@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Lee Sang Moon <moonysl@hanmail.net>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "winston": "^3.3.3"
   }
